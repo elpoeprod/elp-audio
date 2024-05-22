@@ -1,16 +1,16 @@
 @font-face {
     font-family: "CascadiaMono";
-    src: url('CascadiaMono-Light.otf');
+    src: url("CascadiaMono-Light.otf");
 }
 
 body {
-  background: #222;
-  margin: 0;
-
+    background: #222222;
+    margin: 0;
+    font-family: CascadiaMono;
 }
 nametitle {
-    font-family: CascadiaMono;
+     font-family: CascadiaMono; 
     font-size: 36px;
-    color: #FFF;
+    color: #FFFFFF;
   
 }
