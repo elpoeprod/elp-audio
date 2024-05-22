@@ -17,6 +17,14 @@ h1 {
     text-align: center;
 }
 
+h2 {
+	font-family: CascadiaMono; 
+    font-size: 24px;
+	color: #FFFFFF;
+	padding: 0.5rem;
+    text-align: center;
+}
+
 .imgcontainer {
   position: relative;
   text-align: center;
