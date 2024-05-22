@@ -13,10 +13,8 @@ h1 {
     font-family: CascadiaMono; 
     font-size: 36px;
     color: #FFFFFF;
-}
-.titleblock {
-	background: #FFF;
-	margin:	5%;	
+	padding: 0.5rem;
+    text-align: center;
 }
 
 .imgcontainer {
