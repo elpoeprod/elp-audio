@@ -24,6 +24,7 @@ h2 {
 	padding: 0.5rem;
     text-align: center;
 }
+
 p {color: #FFFFFF;}
 
 .imgcontainer {
@@ -40,14 +41,15 @@ p {color: #FFFFFF;}
 }
 
 .blur { 
-	filter: blur(3px) brightness(0.1);
+	filter: brightness(0.2) blur(5px);
 	}
 
 .outliner {
-	/* color: white; */
+	/* color: white; 
     text-shadow:
     -1px -1px 0 #000,
     1px -1px 0 #000,
     -1px 1px 0 #000,
-    1px 1px 0 #000;  
+    1px 1px 0 #000; */
+	filter: drop-shadow(0px 0px 20px black);
 	}
