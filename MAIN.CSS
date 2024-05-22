@@ -11,5 +11,6 @@ body {
 nametitle {
     font-family: CascadiaMono; 
     font-size: 36px;
-    color: #FFFFFF;  
+    color: #FFFFFF;
+	margin-top:	33;
 }
