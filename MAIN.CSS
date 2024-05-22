@@ -24,6 +24,7 @@ h2 {
 	padding: 0.5rem;
     text-align: center;
 }
+p {color: #FFFFFF;}
 
 .imgcontainer {
   position: relative;
@@ -39,8 +40,7 @@ h2 {
 }
 
 .blur { 
-	filter: blur(3px); 
-	filter: brightness(0.1);
+	filter: blur(3px) brightness(0.1);
 	}
 
 .outliner {
