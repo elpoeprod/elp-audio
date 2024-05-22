@@ -31,7 +31,7 @@ h1 {
 }
 
 .blur { filter: blur(3px); }
-.brightness { filter: brightness(0.25); }
+.brightness { filter: brightness(0.1); }
 .outliner {
 	color: white;
     text-shadow:
