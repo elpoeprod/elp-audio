@@ -12,5 +12,6 @@ nametitle {
     font-family: CascadiaMono; 
     font-size: 36px;
     color: #FFFFFF;
-	margin-top:	33;
+	/* margin-top:	33;*/
+	padding: 20%;
 }
