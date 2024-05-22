@@ -3,12 +3,12 @@
     src: url('CascadiaMono-Light.otf');
 }
 
-body: {
+body {
   background: #222;
   margin: 0;
 
 }
-#nametitle {
+nametitle {
     font-family: CascadiaMono;
     font-size: 36px;
     color: #FFF;
