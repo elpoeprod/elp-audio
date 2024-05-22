@@ -9,8 +9,9 @@ body {
     font-family: CascadiaMono;
 }
 nametitle {
-     font-family: CascadiaMono; 
+    font-family: CascadiaMono; 
     font-size: 36px;
     color: #FFFFFF;
+	center: true;
   
 }
